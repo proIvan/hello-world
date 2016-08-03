@@ -1,2 +1,3 @@
 # hello-world
-da vidimo da li radi
+da vidimo da li radi,
+il' ne radi?
